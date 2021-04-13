@@ -4,7 +4,7 @@
 
 
 - :computer: Dei meus primeiros passos no desenvolvimento fazendo o curso Programação do Zero da Cubos Academy, entre julho e dezembro de 2020
-- :books: Gosto muito de ler e atualmente meu livro de cabeceira é "A máquina do ódio" de Patrícia Campos Mello 
+- :books: Gosto muito de ler e atualmente meu livro de cabeceira é "Torto Arado" de Itamar Vieira Junior 
 - :video_game: Jogando: Animal Crossing: New Horizons || GRIS
 - :capricorn: capricorniana com ascendente em câncer
 
