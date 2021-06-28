@@ -1,11 +1,11 @@
-### Olá, meu nome é Carol Guimarães e estou em transição para carreira de desenvolvedora
+### Olá, meu nome é Carol Guimarães sou desenvolvedora Back-end
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/carolguimari?style=social">
 
 
 - :computer: Dei meus primeiros passos no desenvolvimento fazendo o curso Programação do Zero da Cubos Academy, entre julho e dezembro de 2020
-- :books: Gosto muito de ler e atualmente meu livro de cabeceira é "Torto Arado" de Itamar Vieira Junior 
-- :video_game: Jogando: Animal Crossing: New Horizons || GRIS
+- :books: Gosto muito de ler e atualmente meu livro de cabeceira é "Tudo que nunca contei", de Celeste Ng
+- :video_game: Jogando: Animal Crossing: New Horizons
 - :capricorn: capricorniana com ascendente em câncer
 
 <br />
